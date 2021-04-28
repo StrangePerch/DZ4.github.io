@@ -41,7 +41,7 @@
     top: 48%;
     left: 30%;
     transform-origin: right;
-    animation:rotation 216000s linear infinite;
+    animation:rotation 86400s linear infinite;
 }
 
 .second_wrapper{
@@ -63,7 +63,7 @@
     height: 100%;
     border-radius: 100%;
     top: -99%;
-    animation:rotation 15s linear infinite;
+    animation:rotation 30s linear infinite;
     animation-play-state: paused;
 }
 
@@ -77,7 +77,7 @@
     height: 100%;
     border-radius: 100%;
     top: -198%;
-    animation:rotation 900s linear infinite;
+    animation:rotation 720s linear infinite;
     animation-play-state: paused;
 }
 
