@@ -61,7 +61,7 @@
     top: 48%;
     left: 30%;
     transform-origin: right;
-    animation:rotation 86400s linear infinite;
+    animation:rotation 43200s linear infinite;
 }
 
 .center{
